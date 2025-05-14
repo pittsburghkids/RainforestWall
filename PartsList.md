@@ -3,5 +3,5 @@ Alloy Steel Shoulder Screw
 https://www.mcmaster.com/91259A585/
 
 Miniature Snap-Acting Switch  
-Roller Lever Actuator, Quick-Disconnect Terminals, 15A @250VAC
+Roller Lever Actuator, Quick-Disconnect Terminals, 15A @250VAC  
 https://www.mcmaster.com/7779K62/
